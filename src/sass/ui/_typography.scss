@@ -35,7 +35,7 @@ body {
 h1, .h1,
 h2, .h2,
 h3, .h3 {
-  font-family: $font-family-serif;
+//   font-family: $font-family-serif;
   font-weight: $font-weight--bold;
 }
 
@@ -69,7 +69,6 @@ p {
 // Mixins
 h1, .h1 {
   @include font--hero;
-  @include title-dot;
 }
 
 h2, .h2 {

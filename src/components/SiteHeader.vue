@@ -1,6 +1,5 @@
 <template>
-  <div>
-    <header class="site-header">
+    <header class="site-header hero">
       <div class="container">
         <div class="header-items">
           <a href="/" class="header-items__logo">
@@ -9,7 +8,6 @@
         </div>
       </div>
     </header>
-  </div>
 </template>
 
 <script>
